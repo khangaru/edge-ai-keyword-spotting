@@ -18,5 +18,4 @@ An end-to-end embedded machine learning pipeline designed to detect a custom wak
 ├── models/             # Trained Float32 and INT8 TFLite models
 ├── notebooks/          # Google Colab training & MelSpectrogram extraction scripts
 ├── reports/            # Full technical project report (PDF)
-├── src/                # Streaming inference, VAD, and hardware benchmarking code
 └── README.md
